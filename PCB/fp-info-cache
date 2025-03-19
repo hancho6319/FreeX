@@ -1,4 +1,4 @@
-23069054664472801
+23076023443101704
 2-1734839-4 pin-24
 2-1734839-4 pin-24
 
@@ -20,6 +20,13 @@ ECS-400-10-36-CKY-TR
 0
 6
 6
+ABS06-32.768KHZ-6-T
+XTAL_ABS06-32.768KHZ-6-T
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2530,6 +2537,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CMEJ-0413-42-SMT-TR-ELECTRET-MIC
+CMEJ-0413-42-SMT-TR-ELECTRET-MIC
+
+
 0
 2
 2
@@ -63468,6 +63482,13 @@ LM358PW-Amplifier
 0
 8
 8
+LMV358M_OP_AMP_FOR_MIC
+LMV358M_OP_AMP_FOR_MIC
+
+
+0
+8
+8
 MPU-9250 SENSOR
 MPU-9250 SENSOR
 
@@ -66051,6 +66072,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+Multilayer_Ceramic_Capacitor_SMD
+MURATA_GRM3195C2A104GA01D_0
+Chip Multilayer Ceramic Capacitor for General Purpose 100nF ±2% 100V C0G SMD 1206
+
+0
+2
+2
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
